@@ -1,7 +1,5 @@
-# Welcome 
-<p align=center>
-## My name is Nathan Brent
-<p align=center>  
+# Welcome <p align=center>
+## My name is Nathan Brent <p align=center>
 ---
 I am an Integrted Science and Technology major at James Madison Universtiy
 
