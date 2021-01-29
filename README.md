@@ -8,7 +8,7 @@ I am an Integrted Science and Technology major at James Madison Universtiy
 
 <p>&nbsp;</p>
 
-[Resources](https://brentnm.github.io/){: .btn .btn-black }
+<button type="button" name="button" class="btn">[Resources](https://brentnm.github.io/)</button>
 
 *Contact information*
 ### (540)245-0086
