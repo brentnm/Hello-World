@@ -1,5 +1,5 @@
-# Welcome <p align=center>
-## My name is Nathan Brent <p align=center>
+<center># Welcome </center>
+## My name is Nathan Brent 
 ---
 I am an Integrted Science and Technology major at James Madison Universtiy
 
