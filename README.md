@@ -3,9 +3,13 @@
 ## My name is Nathan Brent 
 ---
 I am a Sophomore Integrted Science and Technology major at James Madison Universtiy
+
 concentrations
- -Energy
- -Environment Sector
+
+ - Energy
+
+ - Environment Sector
+
 Minor in Honors Interdisciplinary Studdies
 
 I have experience with the Python programing language
