@@ -4,9 +4,9 @@
 ---
 I am a Sophomore Integrted Science and Technology major at James Madison Universtiy
 
-concentrations
+# Concentrations
 
- - Energy
+ - Energy Sector
 
  - Environment Sector
 
