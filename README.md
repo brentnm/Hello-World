@@ -3,10 +3,11 @@
 ## My name is Nathan Brent 
 ---
 I am a Sophomore Integrted Science and Technology major at James Madison Universtiy
-# concentrations
+concentrations
  -Energy
  -Environment Sector
-# Minor in Honors Interdisciplinary Studdies
+Minor in Honors Interdisciplinary Studdies
+
 I have experience with the Python programing language
 I have completed the Free Code Camp Scientific Computing with Python course (300 hours)
 
